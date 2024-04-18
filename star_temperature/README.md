@@ -1,4 +1,4 @@
-# Поиск изображения по запросу
+# Прогнозирование температуры звезды
 
 [md]()    [ipynb]()
 
@@ -12,14 +12,12 @@
 - **python**
 - **pandas**
 - **numpy**
-- nltk.stem.**WordNetLemmatizer**
-- sklearn.feature_extraction.text.**TfidfVectorizer**
-- sklearn.linear_model.**ElasticNet**
+- **torch**
 - sklearn.linear_model.**LinearRegression**
-- **LGBMRegressor**
-- **CLIP**
-- **BERT**
-- **ResNet18**
+- **matplotlib**
+- **seaborn**
+
+import torch
 
 
 ## Вывод
