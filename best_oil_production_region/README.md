@@ -1,6 +1,6 @@
 # Борьба с оттоком клиентов "Телеком"
 
-[HTML]()     [ipynb]()
+[HTML]()     [ipynb](https://github.com/Ekaterina-Ann/Portfolio/blob/master/best_oil_production_region/best_oil_production_region.ipynb)
 
 ## Описание проекта
 
