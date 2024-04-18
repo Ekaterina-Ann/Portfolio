@@ -1,6 +1,6 @@
 # Прогнозирование заказов такси
 
-[md]()    [ipynb]()
+[ipynb](https://github.com/Ekaterina-Ann/Portfolio/blob/master/taxi_service/taxi_service.ipynb)
 
 ## Описание проекта
 
