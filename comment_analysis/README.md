@@ -1,6 +1,6 @@
 # Работа с токсичными комментариями для интернет-магазина
 
-[HTML]()     [ipynb]()
+[ipynb](https://github.com/Ekaterina-Ann/Portfolio/blob/master/comment_analysis/comment_analysis.ipynb)
 
 ## Описание проекта
 
