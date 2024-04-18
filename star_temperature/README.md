@@ -1,6 +1,6 @@
 # Прогнозирование температуры звезды
 
-[md]()    [ipynb]()
+[ipynb](https://github.com/Ekaterina-Ann/Portfolio/blob/master/star_temperature/star_temperature.ipynb)
 
 ## Описание проекта
 
