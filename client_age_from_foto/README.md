@@ -1,6 +1,6 @@
 # Поиск изображения по запросу
 
-[md]()    [ipynb]()
+[ipynb](https://github.com/Ekaterina-Ann/Portfolio/blob/master/client_age_from_foto/client_age_from_foto.ipynb)
 
 ## Описание проекта
 
