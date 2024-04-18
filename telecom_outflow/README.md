@@ -1,6 +1,6 @@
 # Борьба с оттоком клиентов "Телеком"
 
-[HTML]()     [ipynb]()
+[ipynb](https://github.com/Ekaterina-Ann/Portfolio/blob/master/telecom_outflow/telecom_outflow.ipynb)
 
 ## Описание проекта
 
