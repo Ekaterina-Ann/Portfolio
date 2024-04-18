@@ -1,6 +1,6 @@
 # Поиск изображения по запросу
 
-[md]()    [ipynb]()
+[ipynb](https://github.com/Ekaterina-Ann/Portfolio/blob/master/image_search/image_search.ipynb)
 
 ## Описание проекта
 
