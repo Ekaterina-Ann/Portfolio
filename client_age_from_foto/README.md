@@ -1,4 +1,4 @@
-# Поиск изображения по запросу
+# Определение возраста покупателей
 
 [ipynb](https://github.com/Ekaterina-Ann/Portfolio/blob/master/client_age_from_foto/client_age_from_foto.ipynb)
 
